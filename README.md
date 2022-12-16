@@ -4,4 +4,4 @@
 **Dataset:** <a href="https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018" target="Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)">Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)</a>  
 **Collaborator:** Memorial Sloan Kettering Cancer Center  
   
-Note: Part of the data can also access through the portal
+Note: Part of the data can only be accessed through the portal
